@@ -16,6 +16,10 @@ public class Student{
 		this.name = name;
 	}
 	
+	public String toString()
+	{
+		return "hello";
+	}
 
 	
 }
